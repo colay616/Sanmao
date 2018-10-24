@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">三毛财经</string>
+    <string name="navigation_drawer_open">Open_Drawer</string>
+    <string name="navigation_drawer_close">Close_Drawer</string>
+
+</resources>

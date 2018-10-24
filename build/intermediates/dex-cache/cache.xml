@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\okio-1.13.0_f63c7ab08dbed3c34e0fe0b9b1a691240ffa1bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_58cdb74c7dbd6252d7e2c9f2fd57413f2883bb7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_e3c2a7b1a56d832723af8cb75a3820911be4c896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_b1aa62585669a519d7b9aa2c0f97a53ac33e154c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_33bf805d1981bef7597a6907c10bb939ca43c5d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_5290ebd889bdf836ef1f87a7f8bc931d4b8fa107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_d82c85b6dec7c34b03b51c1ca2153cc6a79809d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\nl.psdcompany\duo-navigation-drawer\2.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f54cfc4ca8fff7185399bfaf01fb77c97780f2a6">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\nl.psdcompany-duo-navigation-drawer-2.0.5_8731c2a7198e42163f1bc6e499f44a16ae8854a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_ffe81a6e2d31d7b17dd5bc3430f79a2bddbd7a54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_5021e57fefa94f494b2526bba39659e5bb147bf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_0eb21333647e2b6f5893a1567ac3df4ced741bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_cd4150a416a03c2da02b0223957cbd9e699a22aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_b0c667c372c0aff9972e3f090636c16dd922e8d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.contrarywind\Android-PickerView\3.2.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a9836ec36fa869e3c2fa9a6d6cbd5c342fd9858">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.contrarywind-Android-PickerView-3.2.6_0218218357f2733a2317271cf758374e61c211af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_fcd24aa15044a1e521e45a81a3314036c3c36ae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_96dbd25339417a1450552cb4bc77bd0aaa690e86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.orhanobut\hawk\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d68a8fd0dd5d9a2b4e415a8411bf8b6aa50542f">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.orhanobut-hawk-2.0.1_210e251b6c27747866a3b85681990d3651b491fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\android-sdks\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_be1212633e512fc55819bdb07c2126d3e35e0002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_2a97e8ebe16aef03d12c63dcaf77f824eb02a4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.0\f765f004f3e201bd6ad0904266e605d7fb776d5\logging-interceptor-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f765f004f3e201bd6ad0904266e605d7fb776d5">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.8.0_da846f3f372d79d88ab1c3f4960f74b5b606aa3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.facebook.conceal\conceal\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30cbc9b94a9a9e3c5d4252fde59e8db066460917">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.facebook.conceal-conceal-1.1.3_ed63aa1f593570213da3df77ff3427372e6e3a50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3305fe8fabbf56b45fa503d29d691bc84290ff23">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\jp.wasabeef-glide-transformations-2.0.2_b391d3cd28ad8c951db731283d15d5c8362c7248.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\Dingtai3\MPLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67f0df146a78f55e56e7a65229772118aa480c8f">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\Dingtai3-MPLib-unspecified_748ffecfaab0fa9296ee55de22556187bd67ea7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.6.2_3d0eebbcfc3e5864d6bd0bf1a2592fa172b9b789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_f4188d692cf8505125f64aad0340f4304d304e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_b24a335a4dcca5d1bd5792ca9dde991026394fb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\gson-2.4_6890e801880bd242164763e4b5f4086b8128ed8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\astock\Dingtai3\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.5.1_ad6d32c358dbf23cf792db9ad89aee506bcfa4ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\android-sdks\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\astock\Dingtai3\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2b05949be0276008a2ea00458e9d3cc8a895e218.jar" />
+    </item>
+
+</items>

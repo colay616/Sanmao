@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:gravity="center_vertical"
+
+    android:layout_height="44dp">
+
+    <!--<TextView-->
+        <!--android:id="@+id/tv_goodsName"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_marginStart="18dp"-->
+        <!--android:gravity="center_horizontal"-->
+        <!--android:text="水晶舍得52°"-->
+        <!--android:textColor="@color/color_g2"-->
+        <!--android:textSize="11dp" />-->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="17dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_goodsCode"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:text="1653.00"
+                android:textColor="@color/color_line"
+                android:textSize="13dp" />
+            <!--3-->
+            <TextView
+                android:id="@+id/tv_increase"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_horizontal"
+                android:text="1653.00"
+                android:textColor="@color/color_b1"
+                android:textSize="13dp" />
+
+            <TextView
+                android:id="@+id/tv_price"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_horizontal"
+                android:text="1653.00"
+                android:textColor="@color/red"
+                android:textSize="13dp" />
+            <!--5-->
+            <!--<TextView-->
+                <!--android:id="@+id/tv_decline"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/color_green1"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_presentQuantity"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/red"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_todayTotalAmount"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/color_blue1"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_showTopPrice"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/red"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_showFloorPrice"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/color_green1"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_openPrice"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/color_green1"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_closePrice"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/color_b1"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_inventory"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/color_blue1"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_yearlyCapacity"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/color_b1"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_goodsUnit"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/color_b1"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_goodsType"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/color_b1"-->
+                <!--android:textSize="13dp" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_goodsArea"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:gravity="center_horizontal"-->
+                <!--android:text="1653.00"-->
+                <!--android:textColor="@color/color_b1"-->
+                <!--android:textSize="13dp" />-->
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/yellow" />
+    </LinearLayout>
+</LinearLayout>
